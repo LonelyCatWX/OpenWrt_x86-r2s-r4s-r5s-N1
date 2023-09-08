@@ -12,15 +12,15 @@ on:
   repository_dispatch:
 
 env:
-  REPO_TOKEN: ${{ secrets.TOKEN_KIDDIN9 }}
-  PPPOE_USERNAME: ${{ secrets.PPPOE_USERNAME }}
-  PPPOE_PASSWD: ${{ secrets.PPPOE_PASSWD }}
-  SCKEY: ${{ secrets.SCKEY }}
-  TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-  SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-  DOCKER_ID: ${{ secrets.DOCKER_ID }}
-  DOCKER_PASSWD: ${{ secrets.DOCKER_PASSWD }}
+  REPO_TOKEN: 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
+  PPPOE_USERNAME: qweasd
+  PPPOE_PASSWD: qweasd
+  SCKEY: qweasd
+  TELEGRAM_TOKEN: qweasd
+  TELEGRAM_CHAT_ID: qweasd
+  SSH_PRIVATE_KEY: qweasd
+  DOCKER_ID: qweasd
+  DOCKER_PASSWD: qweasd
   TZ: Asia/Shanghai
 
 jobs:
