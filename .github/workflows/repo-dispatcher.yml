@@ -22,7 +22,7 @@ on:
         default: ''
 
 env:
-  TOKEN_KIDDIN9: ${{ secrets.TOKEN_KIDDIN9 }}
+  TOKEN_KIDDIN9: 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
   TZ: Asia/Shanghai
 
 jobs:
